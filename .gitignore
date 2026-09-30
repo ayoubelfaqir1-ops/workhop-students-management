@@ -1,0 +1,13 @@
+# Compiled Java class files
+*.class
+webapp/WEB-INF/classes/**
+!webapp/WEB-INF/classes/.gitkeep
+
+# IDE configurations
+.idea/
+*.iml
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db
